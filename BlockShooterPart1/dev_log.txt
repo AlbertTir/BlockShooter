@@ -1,0 +1,1 @@
+-The hitbox for the ship seems to be on the end-tail of the ship, so hits that's not otherwise there doesn't actually destroy the ship
